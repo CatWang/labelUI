@@ -1,0 +1,11 @@
+A label tool based on Qt
+
+使用教程见文档，需要下载Qt压缩包，运行环境为Linux
+
+感觉，没啥好讲的诶，操作代码都在mainwindows.cpp里面，应该还比较简洁
+
+Qt压缩包的链接为https://share.weiyun.com/e5899e6b3e20e8d5789dd2af7373d082
+
+深圳的标注已经能够熟练运用工具和标准啦
+
+北京那边由刘茜和赵云负责
